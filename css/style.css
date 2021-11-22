@@ -1,0 +1,38 @@
+body{
+    color: white;
+}
+
+.box{
+    height: 50px;
+    background-color: rgb(26, 84, 243);
+    border: 1px solid white;
+    line-height: 50px;
+    text-align: center;
+}
+.special{
+    padding: 10px;
+    height: 60px;
+}
+
+h3{
+    color: black;
+    margin-bottom: 5px;
+}
+
+.green{
+    height: 40px;
+    background-color: rgb(47, 241, 47);
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid rgb(26, 84, 243);
+}
+
+.due{
+    margin-top: 30px;
+}
+
+.tre{
+    margin-top: 10px;
+}
+
+
